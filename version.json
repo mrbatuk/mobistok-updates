@@ -1,13 +1,15 @@
 {
+  "contact": "905435217476",
   "v1": {
-    "latest": "1.0.0",
-    "release_date": "2026-07-15",
+    "latest": "1.0.1",
+    "release_date": "2026-06-17",
     "type": "free",
     "changelog": [
-      "Excel içe aktarmada tarih bug'ı düzeltildi",
-      "Stok listesine 'Sat' butonu eklendi"
+      "Demo sürüm eklendi (7 gün)",
+      "Yedekleme: cloud klasör + ek hedef desteği",
+      "EXE installer (Inno Setup) — temiz kurulum/kaldırma",
+      "Otomatik güncelleme"
     ],
-    "download_url": "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.0.1/mobistok-v1.0.1.zip"
-  },
-  "contact": "https://wa.me/905435217476"
+    "download_url": "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.0.1/MobiStok-Setup-1.0.1.exe"
+  }
 }
