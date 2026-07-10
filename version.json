@@ -1,15 +1,17 @@
 {
-  "contact": "905435217476",
-  "v1": {
-    "latest": "1.0.0",
-    "release_date": "2026-06-17",
-    "type": "free",
-    "changelog": [
-      "Demo sürüm eklendi (7 gün)",
-      "Yedekleme: cloud klasör + ek hedef desteği",
-      "EXE installer (Inno Setup) — temiz kurulum/kaldırma",
-      "Otomatik güncelleme"
-    ],
-    "download_url": "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.0.1/MobiStok-Setup-1.0.1.exe"
-  }
+    "contact":  "905435217476",
+    "v1":  {
+               "download_url":  "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.1.0/MobiStok-Setup-1.1.0.exe",
+               "release_date":  "2026-07-10",
+               "type":  "free",
+               "latest":  "1.1.0",
+               "changelog":  [
+                                 "Bulut yedekleme (Google Drive / OneDrive / Dropbox)",
+                                 "Sikistirilmis yedek dosyalari (.db.gz)",
+                                 "Her 4 saatte otomatik yedek secenegi",
+                                 "Telefon stogunda filtre karti (kategori, marka, arama)",
+                                 "Urun stogunda toplu etiket bas",
+                                 "Urun kartlarinda marka gosterimi"
+                             ]
+           }
 }
