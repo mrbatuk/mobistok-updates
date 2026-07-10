@@ -7,11 +7,11 @@
                "latest":  "1.1.0",
                "changelog":  [
                                  "Bulut yedekleme (Google Drive / OneDrive / Dropbox)",
-                                 "Sikistirilmis yedek dosyalari (.db.gz)",
-                                 "Her 4 saatte otomatik yedek secenegi",
-                                 "Telefon stogunda filtre karti (kategori, marka, arama)",
-                                 "Urun stogunda toplu etiket bas",
-                                 "Urun kartlarinda marka gosterimi"
+                                 "Sıkıştırılmış yedek dosyaları (.db.gz)",
+                                 "Her 4 saatte otomatik yedek seçeneği",
+                                 "Telefon stoğunda filtre kartı (kategori, marka, arama)",
+                                 "Ürün stoğunda toplu etiket bas",
+                                 "Ürün kartlarında marka gösterimi"
                              ]
            }
 }
