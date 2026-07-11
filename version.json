@@ -2,7 +2,7 @@
     "contact":  "905435217476",
     "v1":  {
                "download_url":  "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.1.0/MobiStok-Setup-1.1.0.exe",
-               "release_date":  "2026-07-10",
+               "release_date":  "2026-07-11",
                "type":  "free",
                "latest":  "1.1.0",
                "changelog":  [
@@ -11,7 +11,8 @@
                                  "Her 4 saatte otomatik yedek seçeneği",
                                  "Telefon stoğunda filtre kartı (kategori, marka, arama)",
                                  "Ürün stoğunda toplu etiket bas",
-                                 "Ürün kartlarında marka gösterimi"
+                                 "Ürün kartlarında marka gösterimi",
+                                 "Satış ekranında kar gösterimi"
                              ]
            }
 }
