@@ -1,19 +1,23 @@
 {
     "contact":  "905435217476",
     "v1":  {
-               "download_url":  "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.1.0/MobiStok-Setup-1.1.0.exe",
-               "release_date":  "2026-07-11",
+               "download_url":  "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.2.0/MobiStok-Setup-1.2.0.exe",
+               "release_date":  "2026-07-14",
                "type":  "free",
-               "latest":  "1.1.0",
+               "latest":  "1.2.0",
                "changelog":  [
-                                 "Bulut yedekleme (Google Drive / OneDrive / Dropbox)",
-                                 "Sıkıştırılmış yedek dosyaları (.db.gz)",
-                                 "Her 4 saatte otomatik yedek seçeneği",
-                                 "Telefon stoğunda filtre kartı (kategori, marka, arama)",
-                                 "Ürün stoğunda toplu etiket bas",
-                                 "Ürün kartlarında marka gösterimi",
-                                 "Satış ekranında kar gösterimi",
-                                 "Satış listesinde kar gösterimi"
+                                 "Satış formunda canlı kâr göstergesi (her satır + yeşil kâr kutusu)",
+                                 "Satışlar listesine Kâr sütunu ve toplam kâr özeti",
+                                 "Liste fiyatı olmayan ürünlerde satış fiyatı boş gelir",
+                                 "Ürün alışında ürüne tıklayınca alış fiyatı boş gelir",
+                                 "Satış kaleminde alış fiyatı satır altında görünür",
+                                 "Telefon emanet/tamir durumu takibi (rozet tıkla düzenle + renkli satır)",
+                                 "Yeni satışta emanet/tamir telefonlarda uyarı rozeti",
+                                 "Stok sayımında telefonlar kart yerine tablo görünümü",
+                                 "Stok sayımında emanet/tamir satırlar renkli görünür",
+                                 "Garanti süresi biten telefonlarda badge kaybolur",
+                                 "Satış formunda Birim → Satış Fiyatı, ürün alışında Birim → Alış Fiyatı",
+                                 "Güncelleme kontrolü 12 saat yerine 4 saatte bir yapılır"
                              ]
            }
 }
