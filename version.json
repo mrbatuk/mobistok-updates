@@ -1,23 +1,12 @@
 {
     "contact":  "905435217476",
     "v1":  {
-               "download_url":  "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.2.0/MobiStok-Setup-1.2.0.exe",
-               "release_date":  "2026-07-14",
+               "download_url":  "https://github.com/mrbatuk/mobistok-updates/releases/download/v1.2.1/MobiStok-Setup-1.2.1.exe",
+               "release_date":  "2026-07-18",
                "type":  "free",
-               "latest":  "1.2.0",
+               "latest":  "1.2.1",
                "changelog":  [
-                                 "Satış formunda canlı kâr göstergesi (her satır + yeşil kâr kutusu)",
-                                 "Satışlar listesine Kâr sütunu ve toplam kâr özeti",
-                                 "Liste fiyatı olmayan ürünlerde satış fiyatı boş gelir",
-                                 "Ürün alışında ürüne tıklayınca alış fiyatı boş gelir",
-                                 "Satış kaleminde alış fiyatı satır altında görünür",
-                                 "Telefon emanet/tamir durumu takibi (rozet tıkla düzenle + renkli satır)",
-                                 "Yeni satışta emanet/tamir telefonlarda uyarı rozeti",
-                                 "Stok sayımında telefonlar kart yerine tablo görünümü",
-                                 "Stok sayımında emanet/tamir satırlar renkli görünür",
-                                 "Garanti süresi biten telefonlarda badge kaybolur",
-                                 "Satış formunda Birim → Satış Fiyatı, ürün alışında Birim → Alış Fiyatı",
-                                 "Güncelleme kontrolü 12 saat yerine 4 saatte bir yapılır"
+                                 "Header aramadan ürüne tıklayınca satış ekranı açılır (telefonla aynı akış)"
                              ]
            }
 }
